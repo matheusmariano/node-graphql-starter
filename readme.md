@@ -1,4 +1,4 @@
-# Node Starter
+# Node GraphQL Starter
 
 You should install the command `create-project` first
 
